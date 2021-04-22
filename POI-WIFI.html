@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+
+<!--Progetto POI-WIFI, diagramma di Gantt
+Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
+// mettere dipendenze di attività da attività?
+-->
+
+<html lang="it">
+
+	<head>
+		
+		<title>POI-WIFI Diagramma di Gantt</title>
+
+		<script type="text/javascript" src="node_modules/frappe-gantt/dist/frappe-gantt.js"></script>
+		<link rel="stylesheet" href="node_modules/frappe-gantt/dist/frappe-gantt.css">
+
+	</head>
+
+	<body>
+
+		<div class="container">
+
+			<h1>POI-WIFI</h1>
+			<div class="gantt-target"></div>
+
+		</div>
+
+		<script>
+
+			var tasks = [
+				{
+					//Attività di "Pianificazione" e sue sottofasi
+					start: '2021-03-23',
+					end: '2021-04-17',
+					name: 'PIANIFICAZIONE',
+					id: 'task_0',
+					progress: '100'
+				},
+				{
+					//L'unica fase della "Pianificazione" : Organizzazione ambiente
+					start: '2021-03-23',
+					end: '2021-03-25',
+					name: 'Organizzazione ambiente',
+					id: 'task_1',
+					progress: '0',
+					dependencies: 'task_0'
+				},
+				{
+					//Attività di "Progettazione" e sue sottofasi
+					start: '2021-03-23',
+					end: '2021-04-17',
+					name: 'PROGETTAZIONE',
+					id: 'task_2',
+					progress: '100',
+					dependencies: 'task_1'
+				},
+				{
+					//Prima sottofase di "Progettazione" : Analisi e specifiche
+					start: '2021-03-26',
+					end: '2021-03-27',
+					name: 'Analisi e specifiche',
+					id: 'task_3',
+					progress: '0',
+					dependencies: 'task_2'
+				},
+				{
+					//Seconda sottofase di "Progettazione" : Recupero materiali multimediali
+					start: '2021-03-28',
+					end: '2021-03-28',
+					name: 'Recupero materiali multimediali',
+					id: 'task_4',
+					progress: '0',
+					dependencies: 'task_2'
+				},
+				{
+					//Terza sottofase di "Progettazione" : Interfaccia utente
+					start: '2021-03-29',
+					end: '2021-03-31',
+					name: 'Interfaccia utente',
+					id: 'task_5',
+					progress: '0',
+					dependencies: 'task_2'
+				},
+				{
+					//Attività "Creazione" e sue sottofasi
+					start: '2021-03-23',
+					end: '2021-04-17',
+					name: 'CREAZIONE',
+					id: 'task_6',
+					progress: '100',
+					dependencies: 'task_5'
+				},
+				{
+					//Prima sottofase di "Creazione" : Software e implementazione contenuti multimediali
+					start: '2021-04-01',
+					end: '2021-04-10',
+					name: 'Software e implementazione contenuti multimediali',
+					id: 'task_7',
+					progress: '0',
+					dependencies: 'task_6'
+				},
+				{
+					//Seconda sottofase di "Creazione" : Collegamento tablet a rete
+					start: '2021-04-11',
+					end: '2021-04-14',
+					name: 'Collegamento tablet a rete',
+					id: 'task_8',
+					progress: '0',
+					dependencies: 'task_6'
+				},
+				{
+					//Ultima attività : "Chiusura" e sue sottofasi
+					start: '2021-03-23',
+					end: '2021-04-17',
+					name: 'CHIUSURA',
+					id: 'task_9',
+					progress: '100',
+					dependencies: 'task_8'
+				},
+				{
+					//Prima sottofase di "Chiusura" : Test finali e collaudo
+					start: '2021-04-15',
+					end: '2021-04-16',
+					name: 'Test finali e collaudo',
+					id: 'task_10',
+					progress: '0',
+					dependencies: 'task_9'
+				},
+				{
+					//Seconda sottofase di "Chiusura" : Distribuzione
+					start: '2021-04-17',
+					end: '2021-04-17',
+					name: 'Distribuzione',
+					id: 'task_11',
+					progress: '0',
+					dependencies: 'task_9'
+				}
+			]
+
+			var gantt_chart = new Gantt('.gantt-target', tasks);
+
+		</script>
+
+	</body>
+
+</html>
