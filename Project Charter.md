@@ -1,5 +1,4 @@
 # &nbsp;&nbsp;&nbsp; Project Charter
-#
 
 Progetto | Data di inizio | Revisione | Codice progetto | Cliente | Sponsor
 ------------ | ------------- | ------------- | ------------ | ------------- | -------------
