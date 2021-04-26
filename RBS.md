@@ -1,3 +1,5 @@
+RBS progetto POI-WIFI
+
 Organizzazione ambiente 
 3 persone / 4 ore / 12 euro / 144 tot
 3 aggiornamenti per computer / + 30 / 90 tot
