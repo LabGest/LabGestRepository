@@ -1,35 +1,59 @@
-#&nbsp;&nbsp;&nbsp; RBS progetto POI-WIFI
+# &nbsp;&nbsp;&nbsp; RBS progetto POI-WIFI
 
 
-Organizzazione ambiente 
-3 persone / 4 ore / 12 euro / 144 tot
-3 aggiornamenti per computer / + 30 / 90 tot
-Tot tot 234
+##### **1. Organizzazione ambiente** 
+_&nbsp;&nbsp;&nbsp; Risorse umane= 3, q= 4h, pu= 12 euro  => tot= 144_
 
-Analisi e specifiche
-2 persone / 2 ore / 14 euro / 56 tot
-Tot tot 56
+_&nbsp;&nbsp;&nbsp; Materiali= 3 aggiornamenti per computer, pu= 30  => tot= 90_
 
-Recupero materiali multimediali
-1 persona / 6 ore / 12 euro / 72 tot
-50 carburante
+_&nbsp;&nbsp;&nbsp; **Tot= 234**_
+
+
+##### **2.1. Analisi e specifiche**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 2, q= 2h, pu= 14 euro  => tot= 56_
+
+_&nbsp;&nbsp;&nbsp; **Tot= 56**_
+
+
+##### **2.2. Recupero materiali multimediali**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 1, q= 6h, pu= 12 euro  => tot= 72_
+
+_&nbsp;&nbsp;&nbsp; Materiali= carburante, q=50km  pu=20 euro   => tot= 20_
+
+_&nbsp;&nbsp;&nbsp; **Tot= 92**_
+
  
- Interfaccia utente
-4 persone / 6 ore / 15 euro / Tot 360
-4 licenze / Tot 100
- Tot tot 460
+##### **2.3. Interfaccia utente**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 4, q= 6h, pu= 15 euro  => tot= 360_
 
-Software e implementazione contenuti multimediali
- 4 persone / 15 ore / 20 euro ora / tot 1200
+_&nbsp;&nbsp;&nbsp; Materiali= 4 licenze, pu=100  => tot= 400_
+
+_&nbsp;&nbsp;&nbsp; **Tot= 760**_
 
 
- Collegamento tablet a rete
-5 persone / 6 ore / 13 euro ora / tot 390
+##### **3.1. Software e implementazione contenuti multimediali**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 4, q= 15h, pu= 20 euro  => tot= 1200_
 
- Test finali e collaudio
-3 persone / 4 ore / 15 euro ora / tot 180 
+_&nbsp;&nbsp;&nbsp; **Tot= 1200**_
 
-Distribuzione
- 1 persona / 2 ore / 12 euro / tot 24 
-Carburante 50
-Tot tot 74
+
+##### **3.2 Collegamento tablet a rete**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 5, q= 6h, pu= 13 euro  => tot= 390_
+
+_&nbsp;&nbsp;&nbsp; **Tot= 390**_
+
+
+##### **4.1. Test finali e collaudio**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 3, q= 4h, pu= 15 euro  => tot= 180_
+
+_&nbsp;&nbsp;&nbsp; **Tot= 180**_
+
+
+##### **4.2. Distribuzione**
+_&nbsp;&nbsp;&nbsp; Risorse umane= 1, q= 2h, pu= 12 euro  => tot= 24_
+
+ _&nbsp;&nbsp;&nbsp; Materiali=carburante, q= 50km, pu= 20 euro  => tot= 20_
+
+_&nbsp;&nbsp;&nbsp; **Tot= 44**_
+
+### _&nbsp;&nbsp;&nbsp; **Totale progetto= 2956**_
