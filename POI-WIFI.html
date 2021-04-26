@@ -43,7 +43,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Organizzazione ambiente',
 					id: 'task_1',
 					progress: '0',
-					dependencies: 'task_0'
+					
 				},
 				{
 					//Attività di "Progettazione" e sue sottofasi
@@ -52,7 +52,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'PROGETTAZIONE',
 					id: 'task_2',
 					progress: '100',
-					dependencies: 'task_1'
+					
 				},
 				{
 					//Prima sottofase di "Progettazione" : Analisi e specifiche
@@ -61,7 +61,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Analisi e specifiche',
 					id: 'task_3',
 					progress: '0',
-					dependencies: 'task_2'
+					
 				},
 				{
 					//Seconda sottofase di "Progettazione" : Recupero materiali multimediali
@@ -70,7 +70,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Recupero materiali multimediali',
 					id: 'task_4',
 					progress: '0',
-					dependencies: 'task_2'
+					dependencies: 'task_3'
 				},
 				{
 					//Terza sottofase di "Progettazione" : Interfaccia utente
@@ -79,7 +79,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Interfaccia utente',
 					id: 'task_5',
 					progress: '0',
-					dependencies: 'task_2'
+					dependencies: 'task_3'
 				},
 				{
 					//Attività "Creazione" e sue sottofasi
@@ -88,7 +88,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'CREAZIONE',
 					id: 'task_6',
 					progress: '100',
-					dependencies: 'task_5'
+					
 				},
 				{
 					//Prima sottofase di "Creazione" : Software e implementazione contenuti multimediali
@@ -97,7 +97,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Software e implementazione contenuti multimediali',
 					id: 'task_7',
 					progress: '0',
-					dependencies: 'task_6'
+					
 				},
 				{
 					//Seconda sottofase di "Creazione" : Collegamento tablet a rete
@@ -106,7 +106,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Collegamento tablet a rete',
 					id: 'task_8',
 					progress: '0',
-					dependencies: 'task_6'
+					dependencies: 'task_7'
 				},
 				{
 					//Ultima attività : "Chiusura" e sue sottofasi
@@ -115,7 +115,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'CHIUSURA',
 					id: 'task_9',
 					progress: '100',
-					dependencies: 'task_8'
+					
 				},
 				{
 					//Prima sottofase di "Chiusura" : Test finali e collaudo
@@ -124,7 +124,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Test finali e collaudo',
 					id: 'task_10',
 					progress: '0',
-					dependencies: 'task_9'
+					
 				},
 				{
 					//Seconda sottofase di "Chiusura" : Distribuzione
@@ -133,7 +133,7 @@ Da rivedere la possibilità di fare assieme le analisi, recupero ed interfaccia
 					name: 'Distribuzione',
 					id: 'task_11',
 					progress: '0',
-					dependencies: 'task_9'
+					dependencies: 'task_10'
 				}
 			]
 
