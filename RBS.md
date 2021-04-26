@@ -54,6 +54,6 @@ _&nbsp;&nbsp;&nbsp; Risorse umane= 1, q= 2h, pu= 12 euro  => tot= 24_
 
  _&nbsp;&nbsp;&nbsp; Materiali=carburante, q= 50km, pu= 20 euro  => tot= 20_
 
-_&nbsp;&nbsp;&nbsp; **Tot= 44**_
+&nbsp;&nbsp;&nbsp;**Tot= 44**
 
 ### _&nbsp;&nbsp;&nbsp; **Totale progetto= 2956**_
