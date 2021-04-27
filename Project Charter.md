@@ -50,11 +50,11 @@ _&nbsp;&nbsp;&nbsp; Creazione: 14 gg dal’ 1 aprile al 14 aprile_
 _&nbsp;&nbsp;&nbsp; Chiusura: 3 gg da 15 aprile a 17 aprile_
    
 ##### **6. PRINCIPALI RISORSE  E LIMITI DI COSTO**
-_&nbsp;&nbsp;&nbsp; Costo del progetto: 2000 euro_
+_&nbsp;&nbsp;&nbsp; Costo del progetto: 2956 euro_
 
 _&nbsp;&nbsp;&nbsp; Risorse materiali impiegate: postazioni di lavoro, rete internet;_
 
-_&nbsp;&nbsp;&nbsp; Dipendenti interni all’azienda: costo 30/h_
+_&nbsp;&nbsp;&nbsp; Dipendenti interni all’azienda: costo per 150/h_
 
 ##### **7. STRUTTURA ORGANIZZATIVA**
 _&nbsp;&nbsp;&nbsp; Project Manager del progetto e dipendete più quattro dipendenti_
