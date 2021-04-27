@@ -57,7 +57,7 @@ _&nbsp;&nbsp;&nbsp; Risorse materiali impiegate: postazioni di lavoro, rete inte
 _&nbsp;&nbsp;&nbsp; Dipendenti interni all’azienda: costo 30/h_
 
 ##### **7. STRUTTURA ORGANIZZATIVA**
-_&nbsp;&nbsp;&nbsp; Project Manager del progetto e dipendete più due dipendenti aggiuntivi_
+_&nbsp;&nbsp;&nbsp; Project Manager del progetto e dipendete più quattro dipendenti_
 
 ##### **8. AUTORIZZAZIONE**
 _&nbsp;&nbsp;&nbsp; Approvato da: Assessorato al turismo_
